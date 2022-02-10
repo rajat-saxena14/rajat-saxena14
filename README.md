@@ -1,7 +1,7 @@
 ## Hi there 👋🏻,
 
-I'm an Engineering Student at Shri Ramswaroop Memorial University. I love coding and I am Exploring Open Source. 
-Solutions about Django, Python, Oracle PL/SQL, C++ and Java, newbie at SpringBoot, JavaScript and ReactJS. I am exploring other areas of web, mobile and bot development. 
+I'm a Software Developer at Coforge Limited. Graduated from Shri Ramswaroop Memorial University. I love coding and contributing to open source community. 
+Solutions about Django, Python, Flutter, Oracle PL/SQL, C++ and Java, newbie at SpringBoot, JavaScript and ReactJS. I am exploring other areas of web, mobile and bot development. 
 You can see what I am currently up to on [www.rajatsaxena.in][1].
 
 
@@ -14,7 +14,8 @@ You can see what I am currently up to on [www.rajatsaxena.in][1].
 
 ## 👷 My online hub 
 
-I am familiar with **Django**, **Python**, **C/C++**, **Java**, **Oracle PL/SQL**, **Android**, **PHP** and **HTML/CSS/Bootstrap**.
+I am familiar with **Django**, **Python**, **Flutter**, **C/C++**, **Java**, **Oracle PL/SQL**, **Android**, **PHP** and **HTML/CSS/Bootstrap**.
+I am obsessed with cloud tech stack. Efficient in applying standard DevOps practices at **Azure** and **GCP**.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=rajat-saxena14&theme=dark&show_icons=true)
       
